@@ -1,10 +1,10 @@
 <div align="center">
-    <h1>🌟My Gamelist🌟</h1>
+    <h1>🌟Meu curriculo🌟</h1>
 </div>
 
 <div align="center">
 
-The ***MyGamelist*** is a Rest API made with Kotlin, Javalin, MongoDB and hexagonal architecture for registering games that you have played or are still playing.
+O ***Meu curriculo*** e um projeto feito em html e css.
 </div>
 
 ## :rocket: Technology
@@ -12,51 +12,17 @@ The ***MyGamelist*** is a Rest API made with Kotlin, Javalin, MongoDB and hexago
 <div align="center">
 
 ```sh
-Platform: JVM
-Build System: Gradle
-Kotlin Version: 1.4.31
+html e css
 ```
 
-![kotlin](https://img.shields.io/badge/kotlin-007396?&logoColor=fff&style=for-the-badge&logo=kotlin)![gradle](https://img.shields.io/badge/gradle-C71A36?&logoColor=fff&style=for-the-badge&logo=gradle)
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 </div>
 
 ## :boom: How to run
 
-- ### **Prerequisites**
+para executar o projeto basta abrir o arquivo HTML
 
-    - Make sure you have JDK version 11 in your `PATH`
 
-## :hammer: Application
 
-### Clone the repository:
 
-```sh
-# HTTPS
-  $ https://github.com/GabrielLoureiroGomes/MyGamelist.git
-```
-
-```sh
-# SSH
-  $ git@github.com:GabrielLoureiroGomes/MyGamelist.git
-```
-
-### Build the application
-
-```sh
-  $ gradle build
-```
-
-### Run the application
-
-```sh
-  $ gradle run
-```
-
-### Health Check
-
-- To check if the application is ok, access:
-
-```sh
-  $ http://localhost:8080/gamelist/v1/health
-```
