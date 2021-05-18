@@ -1,0 +1,77 @@
+body{
+     background-color: hsla(202, 98%, 21%, 0.13);
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
+
+.B1{
+    background-image: linear-gradient(15deg,#01446b  0%, #01446b 100%);
+    height: 130px;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: -20px;
+}
+
+.azul{
+      color: #01446b;
+      position: relative;
+      margin-left: 250px;
+    
+}
+
+.nome{
+      text-transform: uppercase;
+      position: relative;
+      bottom: -30px;
+      font-size: 50px;
+      margin-left: 300px;
+      color: aliceblue;    
+}
+
+.B2{
+    background-image: linear-gradient(15deg,#000000  0%, #000000 100%);
+    height: 30px;
+    right: 52px;
+    position:relative;
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    bottom: 25px;    
+}
+
+.name{
+      text-transform: uppercase;
+      color: aliceblue;
+      position: relative;
+      bottom: 15px;
+      left: 0px;
+}
+
+.textos{
+        font-size: 20px;
+        margin-left: 300px;   
+}
+
+.sla{
+     position: relative;
+     margin-left: 700px;
+     color: #01446b;
+}
+
+.texto2{
+    position: relative;
+    margin-left: 750px;
+    font-size: 20px;
+}
+
+.linha1{
+    width:50%;
+    text-align:left;
+    margin-left:0
+}
+
+.linha2{
+        width:50%;
+        text-align:left;
+        margin-left:670px;
+}
